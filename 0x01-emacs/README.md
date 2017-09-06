@@ -1,0 +1,1 @@
+This project is about getting used to emacs, a commonly used text editor.
